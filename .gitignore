@@ -1,0 +1,24 @@
+dist
+worker
+.solid
+.output
+.vercel
+.netlify
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+*.launch
+.settings/
+
+# Temp
+gitignore
+src/data/old-games.json
+
+# System Files
+.DS_Store
+Thumbs.db
